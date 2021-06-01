@@ -23,8 +23,8 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&link=https://github.com/abhilashroy28)](https://github.com/abhilashroy28)
+  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3&link=https://github.com/abhilashroy28)](https://github.com/abhilashroy28)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
