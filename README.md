@@ -7,4 +7,4 @@
 - 💬 Ask me about R and Python.
 - 📫 How to reach me: [[ LinkedIn ]](https://www.linkedin.com/in/abhilashroy/) 
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I would love to meet (and even have lunch with) Elon Musk.
+- ⚡ Fun fact: I speak 4 languages ( English, Hindi, Bengali, French(Beginnner))
