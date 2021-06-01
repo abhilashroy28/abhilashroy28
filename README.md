@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on any project based on R, Python, Tableau, SQL or Excel.
 - 🤔 I’m looking for help with Advanced Regression and Stats.
 - 💬 Ask me about R and Python.
-- 📫 How to reach me: [[ LinkedIn ]](https://www.linkedin.com/in/abhilashroy/) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhilashroy/)](https://www.linkedin.com/in/abhilashroy/) , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhilashroy28@gmail.com)](mailto:abhilashroy28@gmail.com)
+
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I speak 4 languages ( English, Hindi, Bengali, French)
 
@@ -13,7 +14,7 @@
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
