@@ -9,5 +9,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I speak 4 languages ( English, Hindi, Bengali, French)
 
+### Languages and Tools:
 
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
