@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on any project based on R, Python, Tableau, SQL or Excel.
 - 🤔 I’m looking for help with Advanced Regression and Stats.
 - 💬 Ask me about R and Python.
-- 📫 How to reach me: [[ LinkedIn]](https://www.linkedin.com/in/abhilashroy/) 
+- 📫 How to reach me: [[ LinkedIn ]](https://www.linkedin.com/in/abhilashroy/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to meet (and even have lunch with) Elon Musk.
